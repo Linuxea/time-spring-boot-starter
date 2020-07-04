@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.linuxea.spring.boot.starter.configuration.DateFormatterConfiguration
